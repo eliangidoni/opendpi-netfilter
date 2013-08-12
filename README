@@ -1,6 +1,8 @@
 This package is a GPL implementation of an iptables and netfilter module for
 OpenDPI integration into the Linux kernel. Winner of OpenDPI contest. 
 
+UPDATE: There is a fork for nDPI at https://github.com/thomasbhatia/opendpi-netfilter
+
 The prerequisites are:
 
 - OpenDPI source package 
